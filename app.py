@@ -18,7 +18,7 @@ app.add_middleware(
 )
 
 # 🔐 Hardcoded YouTube API Key (replace with your key)
-YOUTUBE_API_KEY = "AIzaSyXXXXXX_REPLACE_WITH_YOUR_KEY"
+YOUTUBE_API_KEY = "AIzaSyDOO3plPmJvlJ1e4wHkOde5sGsytuyK2No"
 
 # 🔧 Clean URL
 def clean_youtube_url(url: str) -> str:
